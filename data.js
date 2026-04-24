@@ -18,6 +18,16 @@ const databaseProyek = {
         pelajaran: "Dari tim ini saya belajar tentang pentingnya semangat juang, kerja keras, dan dukungan tim dalam mencapai kesuksesan. Saya juga belajar bagaimana menghadapi tekanan dan tetap fokus pada tujuan bersama.",
         link: ""
     },
+
+     " ARGENTINA": {
+        judul: "ARGENTINA",
+        keahlian: ["bermian bola", "membuat gol", "menang"],
+        gambar: "https://gdb.voanews.com/022a0000-0aff-0242-7ce2-08dae12a1bc2_cx0_cy4_cw0_w1597_n_r1_s_s.jpg",
+        latar: "Timnas Argentia adalah tim sepak bola nasional yang mewakili Argentina dalam kompetisi internasional. Tim ini dikenal dengan gaya bermain yang kreatif dan penuh semangat, serta memiliki sejarah panjang dalam dunia sepak bola. Argentina telah meraih berbagai prestasi, termasuk beberapa gelar juara dunia, dan dikenal dengan pemain-pemain berbakat yang telah mencuri perhatian dunia.",
+        tantangan: " Argentina menghadapi tantangan besar dalam kompetisi internasional, termasuk tekanan untuk tampil baik di turnamen besar seperti Piala Dunia. Namun, dengan kerja keras, strategi yang baik, dan dukungan dari para penggemar, tim ini berhasil mengatasi tantangan tersebut.",
+        pelajaran: "Mereka belajar tentang pentingnya kerja keras, strategi, dan dukungan tim dalam mencapai kesuksesan di tingkat internasional. Mereka juga belajar bagaimana menghadapi tekanan dan tetap fokus pada tujuan bersama untuk meraih prestasi yang membanggakan bagi negara mereka.",
+        link: ""
+    },
 };
 
 
